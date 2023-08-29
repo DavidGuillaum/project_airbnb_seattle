@@ -4,9 +4,9 @@
 This repository contains a project with the Airbnb in Seattle dataset. This project is part of the Data Scientist nanodegree by Udacity.  <br>
   <a href="https://www.kaggle.com/datasets/airbnb/seattle"><strong>Original dataset</strong></a>
   <br>
-  <a href="https://www.kaggle.com/datasets/airbnb/seattle"><strong>Udacity nanodegree</strong></a>
+  <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025?campaign_name=back2skills&coupon=BACK2SKILLS&utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=19167921312_c_individuals&utm_term=143524475679&utm_keyword=data%20science%20udacity_e&gclid=CjwKCAjwrranBhAEEiwAzbhNtU2AhXMTLOAIxbb7dFpKJJ5RpY5AJ2vrr2QDXU5EzU5AiBIidf2R_hoCqrYQAvD_BwE"><strong>Udacity nanodegree</strong></a>
   <br>
-  <a href="https://www.kaggle.com/datasets/airbnb/seattle"><strong>My blog post</strong></a>
+  <a href="https://medium.com/@guillaume.david11/my-first-step-in-the-data-science-world-fb0600c59cf8"><strong>My blog post</strong></a>
   <br>
 </p>
 
