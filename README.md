@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025?gclid=CjwKCAjwrranBhAEEiwAzbhNtcMucpuLhLGbNTCy47QNLh3l0mblEtk7RWO7TkFmqE2eAGR0RkvUSRoCOxkQAvD_BwE&utm_campaign=19167921312_c_individuals&utm_keyword=data%20science%20udacity_e&utm_medium=ads_r&utm_source=gsem_brand&utm_term=143524475679">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUdacity_logo.png&psig=AOvVaw2kFQvwFC8cH8bTduA9C0KN&ust=1693380092203000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjg4tKqgYEDFQAAAAAdAAAAABAE" alt="Udacity logo" width="200" height="165">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udacity.com%2F&psig=AOvVaw3EDLvNE6EPC9RIuPwpStFN&ust=1693383451546000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDan423gYEDFQAAAAAdAAAAABAE" alt="Udacity logo" width="200" height="165">
   </a>
 </p>
 
@@ -27,7 +27,11 @@ This repository contains a project with the Airbnb in Seattle dataset. This proj
 ## How to run the project
 
 Here is the list of installed packages for this project:
-- numpy, pandas, matplolib, seaborn and and Scikitlearn
+- numpy
+- pandas
+- matplolib
+- seaborn
+- Scikitlearn
 <br>
 The project use jupyter notebook framework, so if you don't to install it you can use google colab and just upload the project_airbnb_seattle.ipynb file.
 <br>
@@ -51,7 +55,7 @@ I first took a look a the data and poses 3 questions. I came up with the followi
 <br>
 I then wrangled the data and made the analises to answer to the 3 questions.
 <br>
-You can take a look at the .ipynb file to see the answers. &#128521;
+You can take a look at the .ipynb file to see the answers and how I tried to answer it. &#128521;
 
 ## Author and acknowledgement
 I'm David Guillaume, currently studying for a master's degree in Data Analytics and Economics at the University of Fribourg (Switzerland). I'm very interested in data sciences and economics in particular (bachelor's degree in Political Economy). I hope you'll like my project. I would like to thank Udacity for overseeing this program.
