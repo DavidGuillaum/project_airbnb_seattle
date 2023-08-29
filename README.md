@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025?gclid=CjwKCAjwrranBhAEEiwAzbhNtcMucpuLhLGbNTCy47QNLh3l0mblEtk7RWO7TkFmqE2eAGR0RkvUSRoCOxkQAvD_BwE&utm_campaign=19167921312_c_individuals&utm_keyword=data%20science%20udacity_e&utm_medium=ads_r&utm_source=gsem_brand&utm_term=143524475679">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udacity.com%2F&psig=AOvVaw3EDLvNE6EPC9RIuPwpStFN&ust=1693383451546000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDan423gYEDFQAAAAAdAAAAABAE" alt="Udacity logo" width="200" height="165">
-  </a>
-</p>
-
 <h1 align="center">Airbnb Seattle Project</h1>
 
 <p align="center">
